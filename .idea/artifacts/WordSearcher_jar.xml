@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WordSearcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordSearcher_jar</output-path>
+    <root id="archive" name="WordSearcher.jar">
+      <element id="module-output" name="InvertedIndices" />
+    </root>
+  </artifact>
+</component>
